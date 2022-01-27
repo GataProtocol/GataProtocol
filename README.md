@@ -2,7 +2,30 @@
 - 👀 I’m interested in solving actual human problems through global blockchain adoption...
 - 🌱 I’m currently growing and working...
 - 💞️ I’m looking to collaborate on finding solutions to problems.
-- 📫 How to reach me; twitter, reddit, telegram, instagram, discord.
+- 📫 How to reach me; 
+
+Twitter
+https://www.twitter.com/ebisuprotocol
+
+Instagram
+https://www.instagram.com/ebisuprotocol
+
+Clubhouse
+https://www.clubhouse.com/club/ebisu-protocol
+
+GitHub
+https://www.github.com/EbisuProtocol
+
+Reddit
+https://www.reddit.com/user/EbisuProtocol
+
+Telegram
+https://www.t.me/ebisuprotocol
+
+Medium
+https://ebisuprotocol.medium.com/
+
+
 
 What is EBISU?
 EBISU is one of the seven gods of Fortune, who are well-known as gods who bring good fortune to all. The Seven Gods of good Fortune have been familiar with Japanese as gods with different blessings and worshipped since olden times. But in fact, they consist of members with international characters, some of whom are from India and China.
