@@ -1,54 +1,54 @@
-- 👋 Hi, I’m @EbisuProtocol...
+- 👋 Hi, I’m @GataProtocol...
 - 👀 I’m interested in solving actual human problems through global blockchain adoption...
 - 🌱 I’m currently growing and working...
 - 💞️ I’m looking to collaborate on finding solutions to problems.
 - 📫 How to reach me; 
 
 Twitter
-https://www.twitter.com/ebisuprotocol
+https://www.twitter.com/gataprotocol
 
 Instagram
-https://www.instagram.com/ebisuprotocol
+https://www.instagram.com/gataprotocol
 
 Clubhouse
-https://www.clubhouse.com/club/ebisu-protocol
+https://www.clubhouse.com/club/gata-protocol
 
 GitHub
-https://www.github.com/EbisuProtocol
+https://www.github.com/GataProtocol
 
 Reddit
-https://www.reddit.com/user/EbisuProtocol
+https://www.reddit.com/user/GataProtocol
 
 Telegram
-https://www.t.me/ebisuprotocol
+https://www.t.me/gataprotocol
 
 Medium
-https://ebisuprotocol.medium.com/
+https://gataprotocol.medium.com/
 
 
 
-What is EBISU?
-EBISU is one of the seven gods of Fortune, who are well-known as gods who bring good fortune to all. The Seven Gods of good Fortune have been familiar with Japanese as gods with different blessings and worshipped since olden times. But in fact, they consist of members with international characters, some of whom are from India and China.
+What is GATA?
+GATA is an acronym for the idea and concept of bringing GOOD ACTS TO ALL.
 
-What is EBISU PROTOCOL?
-EBISU PROTOCOL is a Decentralised Social Community with a shared intent in promoting good fortune towards all men, women and children, through utilizing the blockchain in solving actual human problems. We are a community governed IDO focused on building and launching projects that aid human progression through blockchain adoption and utilisation. Ebisu protocol aims to enhance human relationship in the aspect of value exchange employing
-blockchain technology.
+What is GATA PROTOCOL?
+GATA PROTOCOL is a Decentralised Social Community with a shared intent in promoting good fortune towards all men, women and children, through utilizing the blockchain in solving actual human problems. We are a community governed IDO focused on building and launching projects that aid human progression through blockchain adoption and utilisation. GATA protocol aims to enhance human relationship in the aspect of value exchange employing
+blockchain technologies.
 
 *Our North Star*
 
-~ Ebisu College;
+~ GATA College;
      An Open source center of learning, where contributors teach to earn and learn for earn.
      
-~ Ebisu Clinic;
+~ GATA Clinic;
      An Open source virtual health care center, where health care providers and recipients come to barter value capitalising on blockchain technology for speed, accessibility, privacy, and trustlessnes .
       
-~ Ebiz2biz;
+~ GATA biz2biz;
      A platform where contributors converge employing the benefits of blockchain for the exchange of goods and services.
      
-~ Ebisu State;
+~ GATA Estate;
      This is a project for the tokenisation of real world assets. Granting contributors an auspicious liberty and access to a global scale of real world assets investment opportunities.
      
-~ Ebisu Grants;
+~ GATA Grants;
      A decentralised Grant management scheme.
      
 
@@ -68,30 +68,30 @@ Phase 1;
 
 
 
-*EBISU PROTOCOL TOKENOMICS*
+*GATA PROTOCOL TOKENOMICS*
 
-EBISU (POLYGON, BSC, SOLANA)
-EBISU Token is our native utility token with use case such as;
+GATA (POLYGON, BSC, SOLANA)
+GATA Token is our native utility token with use case such as;
 -  Governance and Voting on several of the platform decision polls.
 -  Stacking to earn passive income, through incentives and Bonuses.
 -  Processing transactions in our Market/Exchange platforms.
 -  For Salaries and opportunity to access several of the Protocols benefits.
 
 
-Token Name: Ebisu Token
-Token Symbol: EBISU
+Token Name: Gata Token
+Token Symbol: GATA
 Standard: ERC20
 Decimal: 18
-Maximum Supply: 5,000,000,000 Ebisu Token
+Maximum Supply: 5,000,000,000 GATA Token
 Burn Mark: 40% of Max Total Supply
 
 
 
 *TOKEN SUPPLY DISTRIBUTION*
 
-Ebisu Token Allocation;
+Gata Token Allocation;
 
- A maximum total supply of 5,000,000,000 EBISU tokens would be minted at genesis, with a token reserve of 700,000,000 With an initial supply of 1,370,000,000 Ebisu Tokens across selected Blockchain platforms and a transitory caped inflation period of 5years and subsequently followed by an immutable Deflation phase totaling 40% of token Max Supply, ensuring continued participation and contribution to EBISU PROTOCOL at the expense of passive Ebisu holders.
+ A maximum total supply of 5,000,000,000 GATA tokens would be minted across several Blockchains, with a token reserve of 700,000,000 With an initial supply of 1,370,000,000 GATA Tokens across selected Blockchain platforms and a transitory caped inflation period of 5years and subsequently followed by an immutable Deflation phase totaling 40% of token Max Supply, ensuring continued participation and contribution to GATA PROTOCOL at the expense of passive GATA holders.
 
 
 Token Distribution;
@@ -100,13 +100,13 @@ Max Supply: 5,000,000,000
 Total Supply: 2,300,000,000
 Initial Supply: 1,370,000,000
 
-Liquidity: 4.6%
+Liquidity: 4.6% (Locked)
 Presale: 4.6%
 Public sale: 18.14%
-Dev Team:  3.22%
+Dev Team:  3.22% (Locked)
 Advisors: 1.38%
 Treasury: 6.9%
 Marketing: 3.45%
 Rewards/Charity: 3.45%
-Token Reserve: 14%
+Token Reserve: 14% (Locked)
 Token Burn: 40%
