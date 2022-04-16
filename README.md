@@ -31,8 +31,11 @@ What is GATA?
 GATA is an acronym for the idea and concept of bringing GOOD ACTS TO ALL.
 
 What is GATA PROTOCOL?
-GATA PROTOCOL is a Decentralised Social Community with a shared intent in promoting good fortune towards all men, women and children, through utilizing the blockchain in solving actual human problems. We are a community governed IDO focused on building and launching projects that aid human progression through blockchain adoption and utilisation. GATA protocol aims to enhance human relationship in the aspect of value exchange employing
-blockchain technologies.
+Founded in February of 2022, Gata Protocol is a Decentralized Autonomous Social Economy (DASE) building a DeFi platform of social wealth creation and other Disruptive Dapps for social exchanges of goods and services through blockchain technology.
+
+Gata protocol aims at solving actual human problems by creating a community of people without color, skin, and language. It aims to be a single community with desire to undertake projects focused on Good Acts To All (GATA) as we achieve our Global CSR Initiatives.
+
+Our mision is to create a community governed Launchpad built on the Aurora Blockchain with aims of creating disruptive Web3 Dapps and Mobile Dapps for social exchanges of goods and services.
 
 *Our North Star*
 
