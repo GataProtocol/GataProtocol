@@ -1,7 +1,3 @@
-Here’s a refined and professional version of your GitHub README for the GATA Protocol:
-
----
-
 # Welcome to GATA Protocol
 
 **GATA** stands for **"Good Acts to All"** — our mission is to harness the power of blockchain to solve real-world problems and foster a global decentralized eCommerce and logistics ecosystem.
